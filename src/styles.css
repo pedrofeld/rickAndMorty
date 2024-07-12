@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/FUNDO.jpg");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-image {
+    background-image: url("../images/FUNDO.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    padding: 30px 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.navbar {
+    background-color: #ffffff;
+    padding: 10px 20px;
+}
+
+.navbar .input-group {
+    width: 50%;
+    background-color: #ffffff;
+}
+
